@@ -1,1 +1,0 @@
-# ripley_test.py
